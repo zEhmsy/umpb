@@ -27,6 +27,7 @@
     <a href="https://github.com/zEhmsy/umpb/issues">Report Bug</a>
     ·
     <a href="https://github.com/zEhmsy/umpb/issues">Request Feature</a>
+
   </p>
 </div>
 
@@ -70,7 +71,18 @@
 
 ## About The Project
 
-**UMPB (Universal Mini Palette Board)** is an always-on overlay that replicates the functions of a software Stream Deck: customizable keystroke pages, keyboard or app launch actions, global hot-key toggle, and automatic layout persistence.
+**UMPB (Universal Mini Palette Board)** is a versatile developer tool that manages overlay interfaces on the Steam Deck platform, enabling
+intuitive control and interaction within applications. It facilitates the creation of customizable, persistent
+overlays that enhance user accessibility and control.
+### Why umpb?
+This project empowers developers to build seamless overlay experiences that bridge system operations
+with user-facing interfaces. The core features include:
+- 🎨 🖥️ **Overlay Management**: Handles display and interaction of icons, buttons, and dialogs within the graphical environment.
+- 🔑 🔄 **Layout Persistence**: Saves and loads custom overlay configurations for a consistent user experience.
+- ⚙️ 📝 **Shortcut & Keystroke Automation**: Simplifies quick access to functions through customizable shortcuts and input simulation.
+- 🌐 🌟 **Cross-Platform Input Dispatching**: Ensures responsive control across different systems and
+input methods.
+- 🚀 🔧 **User Interaction Enhancement**: Improves accessibility and control, making overlay management straightforward for developers and users alike.
 
 ### Screenshot
 ![screenshot](docs/screenshot.png)
